@@ -1,1 +1,2 @@
-# paleta-de-cores-em-sites--atividade
+# cores
+Atividade para Layout e Design Digital
